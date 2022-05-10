@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/octiler/lab/issues"
   },
-  "homepage": "https://github.com/octiler/lab#readme"
+  "homepage": "https://github.com/octiler/lab#readme",
+  "dependencies": {
+    "lit": "^2.2.3"
+  },
+  "devDependencies": {
+    "vite": "^2.9.8"
+  }
 }
